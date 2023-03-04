@@ -1,1 +1,2 @@
-0x01-git readme file
+My first commit
+Adding an update after the "Hot fix"
